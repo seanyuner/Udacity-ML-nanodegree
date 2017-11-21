@@ -5,3 +5,5 @@ Udacity ML P0
 2. titanic_visualizations.py is a py-file to help plot.
 3. titanic_survival_exploration.ipynb is the process of dealing with the 'titanic-survival_exploration'.
 4. report.html is the html version process.
+
+**the score of the result in [Kaggle] （https://www.kaggle.com/c/titanic） is 0.77990.**
