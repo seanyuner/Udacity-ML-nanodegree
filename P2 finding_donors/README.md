@@ -1,10 +1,3 @@
-# finding_donors
-Udacity ML P2
-
-1. **finding_donors_mine.ipynb** is my result.
-2. **the others** are the source files.
-
---------------------------------------------------------------------------------------------------------------------------------------
 # 机器学习纳米学位
 # 监督学习
 ## 项目: 为CharityML寻找捐献者
