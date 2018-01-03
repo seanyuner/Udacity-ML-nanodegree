@@ -1,10 +1,3 @@
-# boston_housing
-Udacity ML P1
-
-1. **boston_housing_mine.ipynb** is my result.
-2. **the others** are the source files.
-
------------
 # 项目1：模型评估与验证
 ## 波士顿房价预测
 
