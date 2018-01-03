@@ -1,10 +1,3 @@
-# creating_customer_segments
-Udacity ML P3
-
-1. **creating_customer_segments_mine.ipynb** is my result.
-2. **the others** are the source files.
----
-
 # 项目 3: 非监督学习
 ## 创建用户细分
 
