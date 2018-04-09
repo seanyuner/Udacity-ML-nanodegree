@@ -1,5 +1,7 @@
 ## capstone: kaggle 比赛 [dogs vs.cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 
+###最好成绩在kaggle leaderboard上排名**7/1314**(一年前的比赛)
+
 **代码**分为三部分：
 
 pre_process是简单的可视化预处理；
