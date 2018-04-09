@@ -1,4 +1,4 @@
-## capstone: dogs vs.cats 
+## capstone: kaggle 比赛 [dogs vs.cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 
 **代码**分为三部分：
 
