@@ -13,6 +13,10 @@ transfer_learning_single_model是第二部分，单模型利用预训练好特�
 
 transfer_learning_finetune_InceResNV2_and_merge是第三部分，finetune inception_resnet_v2、融合以及可视化部分。
 
+**CAM_output_video**里面是若干CAM可视化结果的video。
+
+**report_zhubin.pdf**是整个过程的记录文档。
+
 
 **运行使用软件**：
 
