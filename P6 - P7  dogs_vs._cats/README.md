@@ -1,6 +1,6 @@
 ## capstone: [kaggle competition dogs vs.cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)
 
-### 最好成绩在kaggle leaderboard上排名**7/1314**(一年前的比赛)
+### 最好成绩在kaggle leaderboard上排名**7/1314**(实际比赛时间：2016.9.3 - 2017.3.3)
 
 ### 说明：
 
